@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ChromiumOS-Guy
-i like money here is my bitcoin address: 38a7dYBL6xV9AoMiWziCu9hiwDbqAMQgzi
-anyhow im a game-dev but currntly i decided im working on a operating system
-for the pinephone wish me good luck becuase il need it
+Donations:
+Bitcoin:
+38a7dYBL6xV9AoMiWziCu9hiwDbqAMQgzi
+monero
+84VrfBxVETvE2kw4L9q6E7TwptWS11mSWZVuqgJD5XfTfmGpP6UKdmdJ4puuciqGXbeziL5E9jhWhbpU3kwQqTMNRdYW7YA
