@@ -1,5 +1,9 @@
 Donations:
+
 Bitcoin:
+
 38a7dYBL6xV9AoMiWziCu9hiwDbqAMQgzi
+
 Monero:
+
 84VrfBxVETvE2kw4L9q6E7TwptWS11mSWZVuqgJD5XfTfmGpP6UKdmdJ4puuciqGXbeziL5E9jhWhbpU3kwQqTMNRdYW7YA
