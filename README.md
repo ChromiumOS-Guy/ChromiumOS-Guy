@@ -62,7 +62,7 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 
 ---
 
-### :writing_hand: Latest Videos:
+### :camera: Latest Videos:
 
 <!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Yj19JewRmSA"><img width="140px" src="http://img.youtube.com/vi/Yj19JewRmSA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yj19JewRmSA">Updated Guide to SuperPatcherGSI tool</a><br/>Apr 12, 2024</td></tr></table>
