@@ -27,7 +27,7 @@
 I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg2amluYjI2OTg5Z24xY3BtN2s3aHE2aHFsMjV5YmhycmwyeWJ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="30"> from Israel. :wave:
 - :telescope: I’m currently unemployed, and looking for jobs.
 
-- :seedling: Currently Exploring Low-Level programming languages.
+- :seedling: Currently Exploring the Birkeland–Eyde process so I can get some Nitric Acid for my YBCO superconductor.
 
 - :zap: In my free time, I make games/design logic architectures and I am an High Voltage enthusiast.
 
