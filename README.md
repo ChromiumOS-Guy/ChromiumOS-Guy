@@ -64,5 +64,14 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 
 ### :writing_hand: Latest Videos:
 
-<!-- YT-VIDEOS:START -->
+<!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Yj19JewRmSA"><img width="140px" src="http://img.youtube.com/vi/Yj19JewRmSA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Yj19JewRmSA">Updated Guide to SuperPatcherGSI tool</a><br/>Apr 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZNykuREyKTU"><img width="140px" src="http://img.youtube.com/vi/ZNykuREyKTU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZNykuREyKTU">Temporarily Debloat Android Phone With No Root :&rpar;</a><br/>Oct 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LKD7ukJycc4"><img width="140px" src="http://img.youtube.com/vi/LKD7ukJycc4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LKD7ukJycc4">6502 Personal Computer with PCB design</a><br/>May 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-gFIPAIVKUc"><img width="140px" src="http://img.youtube.com/vi/-gFIPAIVKUc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-gFIPAIVKUc">My First 8-Bit Song &lpar;Heavy Walk&rpar;</a><br/>Feb 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=obbHLxn_fFw"><img width="140px" src="http://img.youtube.com/vi/obbHLxn_fFw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=obbHLxn_fFw">How To Patch A super.img With A Custom GSI</a><br/>Jan 11, 2023</td></tr></table>
 <!-- YT-VIDEOS:END -->
