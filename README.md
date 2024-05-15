@@ -62,7 +62,7 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Latest Videos:
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YT-VIDEOS:START -->
+<!-- YT-VIDEOS:END -->
