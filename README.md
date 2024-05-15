@@ -29,7 +29,7 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 
 - :seedling: Currently Exploring the Birkeland–Eyde process so I can get some Nitric Acid for my YBCO superconductor.
 
-- :zap: In my free time, I make games/design logic architectures and I am an High Voltage enthusiast.
+- :zap: In my free time, I make games/design logic architectures and I am a High Voltage enthusiast.
 
 - :mailbox:How to reach me: I am currently available on <a href="https://xdaforums.com/m/chromiumos-guy.12390487/">
       <img src="https://xdaforums.com/data/assets/logo/xda-white-text.png" width="50" alt="XDA-Forum Badge"/>
