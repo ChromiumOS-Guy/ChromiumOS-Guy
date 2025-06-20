@@ -64,8 +64,8 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 
 ### :camera: Latest Videos:
 
-<!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8IigTL3g1t8"><img width="140px" src="http://img.youtube.com/vi/8IigTL3g1t8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8IigTL3g1t8">uWolf Alpha v0.3.3 Demo Video</a><br/>May 27, 2025</td></tr></table>
+<!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/shorts/8IigTL3g1t8"><img width="140px" src="http://img.youtube.com/vi/8IigTL3g1t8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/8IigTL3g1t8">uWolf Alpha v0.3.3 Demo Video</a><br/>May 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Yj19JewRmSA"><img width="140px" src="http://img.youtube.com/vi/Yj19JewRmSA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yj19JewRmSA">Updated Guide to SuperPatcherGSI tool</a><br/>Apr 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZNykuREyKTU"><img width="140px" src="http://img.youtube.com/vi/ZNykuREyKTU/maxresdefault.jpg"></a></td>
