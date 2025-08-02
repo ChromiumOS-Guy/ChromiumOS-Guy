@@ -64,7 +64,9 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 
 ### :camera: Latest Videos:
 
-<!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hq4t-by7AjA"><img width="140px" src="http://img.youtube.com/vi/hq4t-by7AjA/maxresdefault.jpg"></a></td>
+<!-- YT-VIDEOS:START --><table><tr><td><a href="https://www.youtube.com/shorts/BcV9cN1zmVU"><img width="140px" src="http://img.youtube.com/vi/BcV9cN1zmVU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/BcV9cN1zmVU">uWolf Alpha v0.9.27 Demo Video</a><br/>Aug 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hq4t-by7AjA"><img width="140px" src="http://img.youtube.com/vi/hq4t-by7AjA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hq4t-by7AjA">A video for Windows users interested in transitioning to Linux.</a><br/>Jul 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/8IigTL3g1t8"><img width="140px" src="http://img.youtube.com/vi/8IigTL3g1t8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/8IigTL3g1t8">uWolf Alpha v0.3.3 Demo Video</a><br/>May 27, 2025</td></tr></table>
@@ -72,6 +74,4 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 <td><a href="https://www.youtube.com/watch?v=Yj19JewRmSA">Updated Guide to SuperPatcherGSI tool</a><br/>Apr 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZNykuREyKTU"><img width="140px" src="http://img.youtube.com/vi/ZNykuREyKTU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZNykuREyKTU">Temporarily Debloat Android Phone With No Root :&rpar;</a><br/>Oct 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LKD7ukJycc4"><img width="140px" src="http://img.youtube.com/vi/LKD7ukJycc4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LKD7ukJycc4">6502 Personal Computer with PCB design</a><br/>May 22, 2023</td></tr></table>
 <!-- YT-VIDEOS:END -->
