@@ -39,7 +39,7 @@ I am a Low Level programmer(C,C++,ect)/Game Developer <img src="https://media1.g
 
 ---
 ### ☕ Buy Me A Coffie:
-You can help support my opensource projects by buying me a coffie [here](https://buymeacoffee.com/chromiumos.guy).
+You can help support my opensource projects by buying me a coffee [here](https://buymeacoffee.com/chromiumos.guy).
 
 ---
 
